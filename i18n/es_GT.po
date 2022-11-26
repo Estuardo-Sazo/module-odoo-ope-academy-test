@@ -1,0 +1,145 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* ope_academy
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 15.0-20221121\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-25 22:53+0000\n"
+"PO-Revision-Date: 2022-11-25 22:53+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: ope_academy
+#: model:ir.actions.act_window,name:ope_academy.action_ope_academy
+#: model:ir.model.fields,field_description:ope_academy.field_res_partner__academy_id
+#: model:ir.model.fields,field_description:ope_academy.field_res_users__academy_id
+#: model:ir.ui.menu,name:ope_academy.menu_ope_academy
+msgid "Academy"
+msgstr "Amacademia"
+
+#. module: ope_academy
+#: model:ir.ui.menu,name:ope_academy.menu_ope_academy_parent
+msgid "Acedemy"
+msgstr "Academia"
+
+#. module: ope_academy
+#: model:ir.model.fields,field_description:ope_academy.field_res_partner__academies_ids
+#: model:ir.model.fields,field_description:ope_academy.field_res_users__academies_ids
+msgid "Amacademies"
+msgstr "Academias"
+
+#. module: ope_academy
+#: model:ir.model,name:ope_academy.model_res_partner
+msgid "Contact"
+msgstr "Contacto"
+
+#. module: ope_academy
+#: model_terms:ir.ui.view,arch_db:ope_academy.view_res_partner_form
+msgid "Course"
+msgstr "Curso"
+
+#. module: ope_academy
+#: model_terms:ir.ui.view,arch_db:ope_academy.view_res_partner_form
+msgid "Courses"
+msgstr "Cursos"
+
+#. module: ope_academy
+#: model:ir.model.fields,field_description:ope_academy.field_ope_academy__create_uid
+msgid "Created by"
+msgstr "Creado por"
+
+#. module: ope_academy
+#: model:ir.model.fields,field_description:ope_academy.field_ope_academy__create_date
+msgid "Created on"
+msgstr ""
+
+#. module: ope_academy
+#: model:ir.model.fields,field_description:ope_academy.field_ope_academy__display_name
+msgid "Display Name"
+msgstr ""
+
+#. module: ope_academy
+#: model_terms:ir.ui.view,arch_db:ope_academy.view_ope_academy_form
+msgid "Form"
+msgstr ""
+
+#. module: ope_academy
+#: model:ir.model.fields,field_description:ope_academy.field_ope_academy__id
+msgid "ID"
+msgstr ""
+
+#. module: ope_academy
+#: model:ir.model.fields,field_description:ope_academy.field_ope_academy____last_update
+msgid "Last Modified on"
+msgstr ""
+
+#. module: ope_academy
+#: model:ir.model.fields,field_description:ope_academy.field_ope_academy__write_uid
+msgid "Last Updated by"
+msgstr ""
+
+#. module: ope_academy
+#: model:ir.model.fields,field_description:ope_academy.field_ope_academy__write_date
+msgid "Last Updated on"
+msgstr ""
+
+#. module: ope_academy
+#: model_terms:ir.ui.view,arch_db:ope_academy.view_ope_academy_list
+msgid "List"
+msgstr "Lista"
+
+#. module: ope_academy
+#: model:ir.model.fields,field_description:ope_academy.field_ope_academy__partners_ids
+msgid "Many Partners"
+msgstr ""
+
+#. module: ope_academy
+#: model:ir.model.fields,field_description:ope_academy.field_ope_academy__name
+msgid "Name"
+msgstr "Nombre"
+
+#. module: ope_academy
+#: model:ir.model,name:ope_academy.model_ope_academy
+msgid "Open Academy"
+msgstr "Open Academy"
+
+#. module: ope_academy
+#: model:ir.model.fields,field_description:ope_academy.field_ope_academy__partner_ids
+msgid "Partner"
+msgstr ""
+
+#. module: ope_academy
+#: model:ir.model.fields,field_description:ope_academy.field_ope_academy__partner_id
+msgid "Patner"
+msgstr ""
+
+#. module: ope_academy
+#: model_terms:ir.ui.view,arch_db:ope_academy.view_ope_academy_form
+msgid "Students"
+msgstr "Estudiantes"
+
+#. module: ope_academy
+#: model_terms:ir.ui.view,arch_db:ope_academy.view_ope_academy_form
+msgid "Students List"
+msgstr "Lista de Estudiantes"
+
+#. module: ope_academy
+#: model_terms:ir.ui.view,arch_db:ope_academy.view_ope_academy_form
+msgid "Teacher"
+msgstr "Profesor"
+
+#. module: ope_academy
+#: model:ir.model.fields,help:ope_academy.field_ope_academy__partner_ids
+msgid "This are students"
+msgstr "Este es un Estudiante"
+
+#. module: ope_academy
+#: model:ir.model.fields,help:ope_academy.field_ope_academy__partner_id
+msgid "This is the teacher"
+msgstr "Este es el profesor"
