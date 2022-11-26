@@ -26,8 +26,9 @@
     'data': [
         'security/ir.model.access.csv',
         'views/ope_academy_view.xml',
-        'views/templates.xml',
+        'views/ope_academy_template.xml',
         'views/res_partner_view.xml',
+        'reports/ope_academy_report.xml',
     ],
     # only loaded in demonstration mode
     'demo': [

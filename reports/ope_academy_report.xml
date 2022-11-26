@@ -1,0 +1,9 @@
+<odoo>
+    <record id="report_ope_academy" model="ir.actions.report">
+        <field name="name">Academy</field>
+        <field name="model">ope.academy</field>
+        <field name="report_type">qweb-pdf</field>
+        <field name="report_name">ope_academy.template_ope_academy</field>
+        <field name="report_file">ope_academy.template_ope_academy</field>
+    </record>
+</odoo>
